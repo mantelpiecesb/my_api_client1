@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.example",
+    "module": "API_lib",
+    "version": "1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "API_lib-1.0-SNAPSHOT.jar",
+          "url": "API_lib-1.0-SNAPSHOT.jar",
+          "size": 4039,
+          "sha512": "c36d199f1d37a4450760d8bc3b1aedc83d168087c9253000a5109cb1dd2c1160657982106d732180639ce7ce8380079591aa54f88d3a2e68e27695299adf618d",
+          "sha256": "0c34759158f16200f5c7f1ec7d5207fc49467eb988bc52efead5195a6d089174",
+          "sha1": "2ad02967a4d4948267ee982d74531baab8653d37",
+          "md5": "bd74edb0c262a51373c40527160ebceb"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "com.fasterxml",
+          "module": "jackson-xml-databind",
+          "version": {
+            "requires": "0.6.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "API_lib-1.0-SNAPSHOT.jar",
+          "url": "API_lib-1.0-SNAPSHOT.jar",
+          "size": 4039,
+          "sha512": "c36d199f1d37a4450760d8bc3b1aedc83d168087c9253000a5109cb1dd2c1160657982106d732180639ce7ce8380079591aa54f88d3a2e68e27695299adf618d",
+          "sha256": "0c34759158f16200f5c7f1ec7d5207fc49467eb988bc52efead5195a6d089174",
+          "sha1": "2ad02967a4d4948267ee982d74531baab8653d37",
+          "md5": "bd74edb0c262a51373c40527160ebceb"
+        }
+      ]
+    }
+  ]
+}
