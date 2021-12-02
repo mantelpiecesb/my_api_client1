@@ -1,11 +1,11 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "org.example",
-    "module": "API_lib",
-    "version": "1.0-SNAPSHOT",
+    "group": "com.github.mantelpiecesb",
+    "module": "progress-terra-api-client",
+    "version": "1.0",
     "attributes": {
-      "org.gradle.status": "integration"
+      "org.gradle.status": "release"
     }
   },
   "createdBy": {
@@ -27,13 +27,13 @@
       },
       "files": [
         {
-          "name": "API_lib-1.0-SNAPSHOT.jar",
-          "url": "API_lib-1.0-SNAPSHOT.jar",
+          "name": "progress-terra-api-client-1.0.jar",
+          "url": "progress-terra-api-client-1.0.jar",
           "size": 4039,
-          "sha512": "c36d199f1d37a4450760d8bc3b1aedc83d168087c9253000a5109cb1dd2c1160657982106d732180639ce7ce8380079591aa54f88d3a2e68e27695299adf618d",
-          "sha256": "0c34759158f16200f5c7f1ec7d5207fc49467eb988bc52efead5195a6d089174",
-          "sha1": "2ad02967a4d4948267ee982d74531baab8653d37",
-          "md5": "bd74edb0c262a51373c40527160ebceb"
+          "sha512": "d75e92e948fc6cd4f078cbcd5f1757d532aaffa8220922c6206f01e4f25c29b3950915b7712daa18d4b33273d81f57a513a5d67ebd632f9846b2711e6bd0bf15",
+          "sha256": "6ebd3ca1c349de5ee87d0297b8f3870057d2ceca7bca616fa16930cb92437076",
+          "sha1": "e54ff543bf063159b0dd5af9b7e82c12feb2a0be",
+          "md5": "c8443cf69c9f68e78aa40612263d5e94"
         }
       ]
     },
@@ -66,13 +66,13 @@
       ],
       "files": [
         {
-          "name": "API_lib-1.0-SNAPSHOT.jar",
-          "url": "API_lib-1.0-SNAPSHOT.jar",
+          "name": "progress-terra-api-client-1.0.jar",
+          "url": "progress-terra-api-client-1.0.jar",
           "size": 4039,
-          "sha512": "c36d199f1d37a4450760d8bc3b1aedc83d168087c9253000a5109cb1dd2c1160657982106d732180639ce7ce8380079591aa54f88d3a2e68e27695299adf618d",
-          "sha256": "0c34759158f16200f5c7f1ec7d5207fc49467eb988bc52efead5195a6d089174",
-          "sha1": "2ad02967a4d4948267ee982d74531baab8653d37",
-          "md5": "bd74edb0c262a51373c40527160ebceb"
+          "sha512": "d75e92e948fc6cd4f078cbcd5f1757d532aaffa8220922c6206f01e4f25c29b3950915b7712daa18d4b33273d81f57a513a5d67ebd632f9846b2711e6bd0bf15",
+          "sha256": "6ebd3ca1c349de5ee87d0297b8f3870057d2ceca7bca616fa16930cb92437076",
+          "sha1": "e54ff543bf063159b0dd5af9b7e82c12feb2a0be",
+          "md5": "c8443cf69c9f68e78aa40612263d5e94"
         }
       ]
     }

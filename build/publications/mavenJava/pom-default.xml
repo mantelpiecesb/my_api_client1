@@ -6,9 +6,9 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.example</groupId>
-  <artifactId>API_lib</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <groupId>com.github.mantelpiecesb</groupId>
+  <artifactId>progress-terra-api-client</artifactId>
+  <version>1.0</version>
   <dependencies>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>

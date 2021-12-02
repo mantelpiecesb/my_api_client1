@@ -1,1 +1,1 @@
-D:\AndroidStudio2020Projects\intro-coroutines-master\API_lib\build\classes\kotlin\main\ResultGETquery.class;D:\AndroidStudio2020Projects\intro-coroutines-master\API_lib\build\classes\kotlin\main\ResultPOSTquery.class;D:\AndroidStudio2020Projects\intro-coroutines-master\API_lib\build\classes\kotlin\main\my_APIclient_lib.class
+D:\AndroidStudio2020Projects\API_lib\build\classes\kotlin\main\ResultGETquery.class;D:\AndroidStudio2020Projects\API_lib\build\classes\kotlin\main\ResultPOSTquery.class;D:\AndroidStudio2020Projects\API_lib\build\classes\kotlin\main\my_APIclient_lib.class
